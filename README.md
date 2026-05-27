@@ -18,3 +18,14 @@ Here are the key insights generated from the analysis:
 ![Time Series](images/04_time_series.png)
 ![Decomposition](images/05_decomposition.png)
 ![ARIMA Forecast](images/06_arima_forecast.png)
+
+
+## 🛠️ Technologies Used
+* **Language:** Python
+* **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Statsmodels
+
+## 🚀 How to Run
+1. Clone this repository to your local machine.
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
